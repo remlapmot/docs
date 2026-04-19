@@ -86,7 +86,7 @@ For example:
     "package" : "somepackage",
     "url" : "https://github.com/jeroen/somepackage",
     "branch" : "stable"
-  }
+  },
   {
     "package": "jose",
     "url": "https://github.com/jeroen/jose",
